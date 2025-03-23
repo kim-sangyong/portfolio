@@ -27,17 +27,18 @@ function MainPage () {
         <>
             <Helmet>
                 <title>김상용 | 웹 퍼블리셔 포트폴리오</title>
+                    <meta name="robots" content="index, follow" />
                     <meta name="description" content="안녕하세요 신입 웹 퍼블리셔 김상용입니다. 저의 포트폴리오에 오신 걸 환영합니다." />
                     <meta name="keywords" content="포트폴리오, 퍼블리셔, 웹 개발자, 엡 퍼블리셔, HTML, CSS, SCSS, 자바스크립트, 
                             리액트, 프론트엔드 개발자" />
 
                     {/* Open Graph tags SNS 메타태그*/}
-                    <meta property="og:type" content="website" />
                     <meta property="og:title" content="나의 포트폴리오 - 웹 퍼블리셔" />
+                    <meta property="og:type" content="website" />
                     <meta property="og:description" content="웹 표준, 웹 접근성, SEO를 최적화를 하여 만든 저의 포트폴리오입니다.
                                     저의 기술과 작업을 확인해보세요!" />
-                    {/* <meta property="og:image" content="https://yourwebsite.com/your-image.jpg" />
-                    <meta property="og:url" content="https://yourwebsite.com" /> */}
+                    {/* <meta property="og:image" content="https://yourwebsite.com/your-image.jpg" /> */}
+                    <meta property="og:url" content="https://kim-sangyong.github.io/portfolio/" />
 
                     {/* Twitter Card tags 트위터 메타태그*/}
                     <meta name="twitter:card" content="summary_large_image" />

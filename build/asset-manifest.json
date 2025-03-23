@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4f8c0fc0.css",
+    "main.js": "/portfolio/static/js/main.4ea14ca4.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/MainImg.png": "/portfolio/static/media/MainImg.2ffc34ee7fea0dd07eff.png",
+    "static/media/TabletIpad.png": "/portfolio/static/media/TabletIpad.a23a2563ebacd011742f.png",
+    "static/media/MyPhoto.jpg": "/portfolio/static/media/MyPhoto.dab737c205941fcc6d25.jpg",
+    "static/media/Imac.png": "/portfolio/static/media/Imac.41dfaedd43d0948ac76d.png",
+    "static/media/SUIT-Bold.woff2": "/portfolio/static/media/SUIT-Bold.c9420c4966f63fba3870.woff2",
+    "static/media/SUIT-SemiBold.woff2": "/portfolio/static/media/SUIT-SemiBold.068f9cecc598b9f77569.woff2",
+    "static/media/SUIT-Medium.woff2": "/portfolio/static/media/SUIT-Medium.98407cefdf5108a30a61.woff2",
+    "static/media/SUIT-Light.woff2": "/portfolio/static/media/SUIT-Light.c6d2fabbc2057f7115a7.woff2",
+    "static/media/SUIT-Regular.woff2": "/portfolio/static/media/SUIT-Regular.0fce4500bc5a839a4c13.woff2",
+    "static/media/Mac.png": "/portfolio/static/media/Mac.d3a1d51150d0f5aa01ab.png",
+    "index.html": "/portfolio/index.html",
+    "main.4f8c0fc0.css.map": "/portfolio/static/css/main.4f8c0fc0.css.map",
+    "main.4ea14ca4.js.map": "/portfolio/static/js/main.4ea14ca4.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f8c0fc0.css",
+    "static/js/main.4ea14ca4.js"
+  ]
+}

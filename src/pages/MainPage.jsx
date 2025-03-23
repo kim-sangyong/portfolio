@@ -37,14 +37,14 @@ function MainPage () {
                     <meta property="og:type" content="website" />
                     <meta property="og:description" content="웹 표준, 웹 접근성, SEO를 최적화를 하여 만든 저의 포트폴리오입니다.
                                     저의 기술과 작업을 확인해보세요!" />
-                    {/* <meta property="og:image" content="https://yourwebsite.com/your-image.jpg" /> */}
+                    <meta property="og:image" content="https://raw.githubusercontent.com/kim-sangyong/portfolio/main/src/assets/images/MainImg.png" />
                     <meta property="og:url" content="https://kim-sangyong.github.io/portfolio/" />
 
                     {/* Twitter Card tags 트위터 메타태그*/}
                     <meta name="twitter:card" content="summary_large_image" />
                     <meta name="twitter:title" content="나의 포트폴리오 - 웹 퍼블리셔" />
                     <meta name="twitter:description" content="저의 기술과 작업을 확인하고 함께 협업할 기회를 가지세요!" />
-                    {/* <meta name="twitter:image" content="https://yourwebsite.com/your-image.jpg" /> */}
+                    <meta name="twitter:image" content="https://raw.githubusercontent.com/kim-sangyong/portfolio/main/src/assets/images/MainImg.png" />
             </Helmet> 
             {/* 메인 섹션 */}
             <section className={styles.mainSection}>

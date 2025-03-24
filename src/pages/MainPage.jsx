@@ -136,7 +136,7 @@ function MainPage () {
                                 <h3>루나카사-LUNACASA 개인 프로젝트</h3>
                                 <p>루나카사는 직접 구상한 가구사이트이며
                                     HTML, SCSS,<br /> JavaScript, 라이브러리 등을
-                                    사용하여 퍼블리싱<br /> 프로젝트를 진행했습니다.</p>
+                                    사용하여 퍼블리싱<br /> 안녕프로젝트를 진행했습니다.</p>
                                     <div className={styles.aBox}>
                                         <a href="https://kim-sangyong.github.io/lunacasa/" target="_blank" rel="noopener noreferrer" className={styles.buttonBox}>
                                         사이트 바로가기

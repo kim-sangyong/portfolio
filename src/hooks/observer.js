@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-// 이것도 애니메이션으로 구현가능함 굳이 js 필요없음 다시 생각해보자
 
 function useObserver(ref, options) {
   const [isVisible, setIsVisible] = useState(false);

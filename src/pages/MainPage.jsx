@@ -148,7 +148,7 @@ function MainPage () {
                         <img src={Imac} alt="바로네 펫샵 프로젝트 이미지" className={styles.imacImg}/>
                             <div className={styles.imacProjectTxt}>
                                 <h3>바로네 펫샵 개인 프로젝트</h3>
-                                <p>강아지 분양이며 HTML, SCSS, JavaScrip를 사용하여 <br />
+                                <p>HTML, SCSS, JavaScrip를 사용하여 <br />
                                    다양한 화면 크기와 디바이스에 최적화된 반응형 사이트입니다. </p>
                                    <div className={styles.imacBox}>
                                         <a href="https://kim-sangyong.github.io/baronepetshop/" target="_blank" rel="noopener noreferrer" className={styles.imacButtonBox}>

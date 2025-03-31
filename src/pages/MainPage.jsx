@@ -117,6 +117,7 @@ function MainPage () {
                                     사용하여 퍼블리싱<br /> 프로젝트를 진행했습니다.</p>
                                     <div className={styles.aBox}>
                                         <a href="https://kim-sangyong.github.io/lunacasa/" target="_blank" rel="noopener noreferrer" className={styles.buttonBox}>
+                                        {/* 클라이언트 측 라우팅이 아닌 외부 사이트 링크이기에 a태그 사용*/}
                                         사이트 바로가기
                                         </a>
                                     </div>
@@ -130,6 +131,7 @@ function MainPage () {
                                    다양한 화면 크기와 디바이스에 최적화된 반응형 사이트입니다. </p>
                                    <div className={styles.imacBox}>
                                         <a href="https://kim-sangyong.github.io/baronepetshop/" target="_blank" rel="noopener noreferrer" className={styles.imacButtonBox}>
+                                        {/* 클라이언트 측 라우팅이 아닌 외부 사이트 링크이기에 a태그 사용*/}
                                         사이트 바로가기
                                         </a>
                                     </div>

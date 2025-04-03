@@ -17,13 +17,13 @@
     "sass": "^1.85.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://kim-sangyong.github.io/portfolio/" ,
+  "homepage": "https://kim-sangyong.github.io/portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject" ,
-    "predeploy": "npm run build" ,
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -43,5 +43,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0",
+    "autoprefixer": "^10.4.21",
+    "css-loader": "^7.1.2",
+    "postcss": "^8.5.3",
+    "postcss-loader": "^8.1.1",
+    "style-loader": "^4.0.0"
   }
 }

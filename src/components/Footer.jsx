@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "../assets/styles/Footer.module.scss";
 
-function Footer () {
+const Footer = () => {
     return(
        <footer className={styles.footerCon} id="contact">
             <div className={styles.footerBox}>

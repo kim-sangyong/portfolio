@@ -16,12 +16,11 @@ import Tablet from "../assets/images/TabletIpad.png";
 import Mac from "../assets/images/Mac.png";
 import Imac from "../assets/images/Imac.png";
 
-function MainPage () {
-    const titleRef = useRef(null);
+const MainPage = () => {
 
+    const titleRef = useRef(null);
     const isVisible = useObserver(titleRef, { threshold: 0.5 });
     
-
     return(
         <>   
             {/* 메인 섹션 */}

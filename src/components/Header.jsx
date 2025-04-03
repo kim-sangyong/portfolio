@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "../assets/styles/Header.module.scss";
 
-function Header () {
+const Header = () => {
     return(
         <header className={styles.fixed}>
             <div className={styles.headerCon}>

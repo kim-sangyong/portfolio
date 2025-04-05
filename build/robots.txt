@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: /static/media/MyPhoto.dab737c205941fcc6d25.jpg
 Sitemap: https://kim-sangyong.github.io/portfolio/sitemap.xml
